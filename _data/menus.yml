@@ -1,13 +1,13 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: ΑΡΧΙΚΗ
   url: ""
 
-- title: About
+- title: Η ΕΡΓΑΣΙΑ
   url: "about/"
 
-- title: Contact
+- title: ΕΠΙΚΟΙΝΩΝΙΑ
   url: "contact/"
 
 - title: Get this theme  
