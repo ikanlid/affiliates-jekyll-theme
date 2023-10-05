@@ -1,6 +1,7 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
+url: https://ikanlid.github.io/
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
