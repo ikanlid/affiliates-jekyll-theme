@@ -2,7 +2,7 @@
 layout: page
 title: Η ΕΡΓΑΣΙΑ
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/header-bg.jpg
 ---
 
 Εργαλεία Προβολής Πολιτιστικού & Τουριστικού Προϊόντος
