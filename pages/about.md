@@ -5,11 +5,17 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Η ΕΡΓΑΣΙΑ
+Εργαλεία Προβολής Πολιτιστικού & Τουριστικού Προϊόντος
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Προβολή
+Επιλογή 10 Σημείων/Αντικειμένων Πολιτιστικού Ενδιαφέροντος (ΣΑΠΕ) με κοινή θεματολογία. Παρουσίαση με θέμα οι Λίμνες στην Ελλάδα
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Συλλογή Πληροφοριών
+συλλογή πληροφοριών για τις λίμνες στην Ελλάδα χρησιμοποιώντας κάθε προσβάσιμο τεκμήριο (π.χ. φωτογραφίες, κείμενα κλπ)
+
+Παρουσίαση
+Ψηφιοποίηση και αξιοποίηση ανοικτών δεδομένων πολιτιστικού περιεχομένου μέσω της πλατφόρμας wikidata.org αξιοποιώντας linked data τεχνολογία.
 
 [Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
 
